@@ -1,0 +1,25 @@
+Python Package Index:
+
+pip install <package name>
+
+pip install --user <package name>
+
+pip uninstall <package name>
+
+pip list
+
+pip list --outdated
+
+pip install --upgrade <package name>
+
+pip show <package name>
+
+py -m site (Show Location Path) 
+
+Open: 
+C:\\Users\\asalahuddin\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\site-packages
+
+py -m pip list
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
